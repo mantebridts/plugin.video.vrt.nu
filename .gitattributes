@@ -7,3 +7,6 @@ Build-Zip.ps1 export-ignore
 Makefile export-ignore
 requirements.txt export-ignore
 tox.ini export-ignore
+# htpc fork: keep these out of add-on builds (git archive)
+README.md export-ignore
+release.sh export-ignore
